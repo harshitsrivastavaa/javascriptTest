@@ -1,0 +1,2 @@
+# javascriptTest
+Learning of js
